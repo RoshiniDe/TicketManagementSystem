@@ -1,49 +1,53 @@
-Ticket Management System
-A web-based platform designed to manage the sale and distribution of tickets for events in a fast, scalable, and concurrent manner.​
-GitHub
+# Ticket Management System
 
-Features
-Fast and Scalable: Optimized for handling high volumes of ticket sales and distribution.​
+A web-based platform designed to manage the sale and distribution of tickets for events in a fast, scalable, and concurrent manner.
 
-Concurrent Processing: Efficiently manages multiple transactions simultaneously.​
+## Features
 
-User-Friendly Interface: Intuitive design for both administrators and customers.​
+- **Fast and Scalable**: Optimized for handling high volumes of ticket sales and distribution.
+- **Concurrent Processing**: Efficiently manages multiple transactions simultaneously.
+- **User-Friendly Interface**: Intuitive design for both administrators and customers.
 
-Technologies Used
-Frontend: Built with React to provide a responsive and dynamic user experience.​
+## Technologies Used
 
-Backend: Developed using Node.js and Express for robust server-side operations.​
+- **Frontend**: Built with React to provide a responsive and dynamic user experience.
+- **Backend**: Developed using Node.js and Express for robust server-side operations.
+- **Database**: Utilizes MongoDB for flexible and scalable data storage.
 
-Database: Utilizes MongoDB for flexible and scalable data storage.​
+## Getting Started
 
-Getting Started
 To get started with the Ticket Management System:
 
-Clone the Repository:
+1. **Clone the Repository**:
 
-bash
-Copy
-Edit
-git clone https://github.com/RoshiniDe/TicketManagementSystem.git
-Navigate to the Project Directory:
+   ```bash
+   git clone https://github.com/RoshiniDe/TicketManagementSystem.git
+   ```
+
 
-bash
-Copy
-Edit
-cd TicketManagementSystem
-Install Dependencies:
+2. **Navigate to the Project Directory**:
 
-bash
-Copy
-Edit
-npm install
-Start the Development Server:
+   ```bash
+   cd TicketManagementSystem
+   ```
+
 
-bash
-Copy
-Edit
-npm start
-This will run the app in development mode. Open http://localhost:3000 to view it in your browser.
+3. **Install Dependencies**:
 
-License
-This project is licensed under the MIT License.
+   ```bash
+   npm install
+   ```
+
+
+4. **Start the Development Server**:
+
+   ```bash
+   npm start
+   ```
+
+
+   This will run the app in development mode. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+## License
+
+This project is licensed under the MIT License. 
