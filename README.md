@@ -11,7 +11,7 @@ A web-based platform designed to manage the sale and distribution of tickets for
 ## Technologies Used
 
 - **Frontend**: Built with React to provide a responsive and dynamic user experience.
-- **Backend**: Developed using Node.js and Express for robust server-side operations.
+- **Backend**: Developed using Spring Boot for robust server-side operations.
 - **Database**: Utilizes MongoDB for flexible and scalable data storage.
 
 ## Getting Started
